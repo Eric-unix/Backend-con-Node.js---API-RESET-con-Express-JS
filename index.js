@@ -1,5 +1,7 @@
 const express = require('express');
-const routerApi = require('./routes')
+const routerApi = require('./routes');
+const faker = require('faker');
+
 
 
 const app = express();
