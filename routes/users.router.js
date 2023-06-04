@@ -14,4 +14,4 @@ router.get('/', (req, res) => {
   }
 });
 
-module.exports = routerApi;
+//module.exports = routerApi;
